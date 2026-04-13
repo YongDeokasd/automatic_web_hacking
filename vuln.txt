@@ -1,0 +1,175 @@
+OS command injection
+SQL injection
+SQL injection (second order)
+ASP.NET tracing enabled
+File path traversal
+XML external entity injection
+LDAP injection
+XPath injection
+XML injection
+ASP.NET debugging enabled
+Broken access control
+HTTP PUT method is enabled
+Out-of-band resource load (HTTP)
+File path manipulation
+PHP code injection
+Server-side JavaScript code injection
+Perl code injection
+Ruby code injection
+Python code injection
+Expression Language injection
+Unidentified code injection
+Server-side template injection
+SSI injection
+React Server Components remote code execution (React2Shell)
+Cross-site scripting (stored)
+HTTP request smuggling
+Client-side desync
+Web cache poisoning
+HTTP response header injection
+Cross-site scripting (reflected)
+Client-side template injection
+Cross-site scripting (DOM-based)
+Cross-site scripting (reflected DOM-based)
+Cross-site scripting (stored DOM-based)
+Client-side prototype pollution
+JavaScript injection (DOM-based)
+JavaScript injection (reflected DOM-based)
+JavaScript injection (stored DOM-based)
+Path-relative style sheet import
+WebSocket URL poisoning (DOM-based)
+WebSocket URL poisoning (reflected DOM-based)
+WebSocket URL poisoning (stored DOM-based)
+Local file path manipulation (DOM-based)
+Local file path manipulation (reflected DOM-based)
+Local file path manipulation (stored DOM-based)
+Client-side XPath injection (DOM-based)
+Client-side XPath injection (reflected DOM-based)
+Client-side XPath injection (stored DOM-based)
+Client-side JSON injection (DOM-based)
+Client-side JSON injection (reflected DOM-based)
+Client-side JSON injection (stored DOM-based)
+Flash cross-domain policy
+Silverlight cross-domain policy
+Content security policy: allowlisted script resources
+Content security policy: allows untrusted script execution
+Content security policy: allows untrusted style execution
+Content security policy: malformed syntax
+Content security policy: allows clickjacking
+Content security policy: allows form hijacking
+Content security policy: not enforced
+GraphQL endpoint found
+GraphQL endpoint discovered
+GraphQL introspection enabled
+GraphQL suggestions enabled
+GraphQL content type not validated
+Cross-origin resource sharing
+Cross-origin resource sharing: arbitrary origin trusted
+Cross-origin resource sharing: unencrypted origin trusted
+Cross-origin resource sharing: all subdomains trusted
+Web cache deception
+Cross-site request forgery
+SMTP header injection
+JWT signature not verified
+JWT none algorithm supported
+JWT self-signed JWK header supported
+JWT weak HMAC secret
+JWT arbitrary jku header supported
+JWT arbitrary x5u header supported
+Cleartext submission of password
+External service interaction (DNS)
+External service interaction (HTTP)
+External service interaction (SMTP)
+Referer-dependent response
+Spoofable client IP address
+User agent-dependent response
+Password returned in later response
+Password submitted using GET method
+Password returned in URL query string
+SQL statement in request parameter
+Cross-domain POST
+ASP.NET ViewState without MAC enabled
+XML entity expansion
+Long redirection response
+Serialized object in HTTP message
+Duplicate cookies set
+Input returned in response (stored)
+Input returned in response (reflected)
+Suspicious input transformation (reflected)
+Suspicious input transformation (stored)
+Request URL override
+Vulnerable JavaScript dependency
+Open redirection (reflected)
+Open redirection (stored)
+Open redirection (DOM-based)
+Open redirection (reflected DOM-based)
+Open redirection (stored DOM-based)
+TLS cookie without secure flag set
+Cookie scoped to parent domain
+Cross-domain Referer leakage
+Cross-domain script include
+Cookie without HttpOnly flag set
+Session token in URL
+Password value set in cookie
+File upload functionality
+Frameable response (potential Clickjacking)
+Browser cross-site scripting filter disabled
+HTTP TRACE method is enabled
+Cookie manipulation (DOM-based)
+Cookie manipulation (reflected DOM-based)
+Cookie manipulation (stored DOM-based)
+Ajax request header manipulation (DOM-based)
+Ajax request header manipulation (reflected DOM-based)
+Ajax request header manipulation (stored DOM-based)
+Denial of service (DOM-based)
+Denial of service (reflected DOM-based)
+Denial of service (stored DOM-based)
+HTML5 web message manipulation (DOM-based)
+HTML5 web message manipulation (reflected DOM-based)
+HTML5 web message manipulation (stored DOM-based)
+HTML5 storage manipulation (DOM-based)
+HTML5 storage manipulation (reflected DOM-based)
+HTML5 storage manipulation (stored DOM-based)
+Link manipulation (DOM-based)
+Link manipulation (reflected DOM-based)
+Link manipulation (stored DOM-based)
+Link manipulation (reflected)
+Link manipulation (stored)
+Document domain manipulation (DOM-based)
+Document domain manipulation (reflected DOM-based)
+Document domain manipulation (stored DOM-based)
+DOM data manipulation (DOM-based)
+DOM data manipulation (reflected DOM-based)
+DOM data manipulation (stored DOM-based)
+CSS injection (reflected)
+CSS injection (stored)
+Client-side HTTP parameter pollution (reflected)
+Client-side HTTP parameter pollution (stored)
+Form action hijacking (reflected)
+Form action hijacking (stored)
+Database connection string disclosed
+Source code disclosure
+Backup file
+Directory listing
+Email addresses disclosed
+Private IP addresses disclosed
+Social security numbers disclosed
+Credit card numbers disclosed
+Private key disclosed
+Robots.txt file
+Json Web Key Set disclosed
+JWT private key disclosed
+OpenAPI definition found (active scan check)
+OpenAPI definition found (passive scan check)
+Cacheable HTTPS response
+Base64-encoded data in parameter
+Multiple content types specified
+HTML does not specify charset
+HTML uses unrecognized charset
+Content type incorrectly stated
+Content type is not specified
+TLS certificate
+Unencrypted communications
+Strict transport security not enforced
+Mixed content
+Hidden HTTP 2

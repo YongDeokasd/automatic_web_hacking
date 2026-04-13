@@ -1,0 +1,10 @@
+Act as expert web penetration tester
+사전 조건:
+현재 디렉토리의 burp_out 내에는 url별로 request, response가 저장되어 있음.
+Task:
+1. request와 response를 확인해서 어떤 파라미터에 potential vulnerability가 있는지 확인
+2. vulnerability 명은 현재 디렉토리의 vuln.txt 참고하면 됨.
+3. request 하나가 점검이 끝난 다음에는 현재 디렉토리에 result.csv에 "URI, Parameter, Method, Potential vulnerability, Reason, probability" 에 append 방식으로 저장
+4. parameter가 여러개가 있으면 행도 여러개가 되어야 함. 또한 쿠키나 다른 헤더가 취약점 발현 요소가 있으면 이 또한 포함함.
+5. potential한 취약점이 없거나 확률이 낮을 경우 Potential vulnerability에 "None" 입력.
+6. 지금까지 내가 말한 것들은 현재 디렉토리의 prompt.txt 로 저장하고 하나의 request가 끝난 뒤 반복해서 읽을 것.
